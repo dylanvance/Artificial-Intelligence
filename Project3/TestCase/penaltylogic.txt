@@ -1,0 +1,3 @@
+airbnb AND desert, 10
+seaside AND steakhouse, 6
+seafood OR desert, 1

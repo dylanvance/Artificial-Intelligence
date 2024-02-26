@@ -1,0 +1,8 @@
+location: seaside, desert
+hostel: resort, airbnb
+restaurant: steakhouse, seafood
+drink: alcohol, water
+language: english, spanish
+sand: coarse, soft
+locals: kind, rude
+service: excellent, poor

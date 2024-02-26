@@ -1,0 +1,87 @@
+Feasible: 
+o112: desert resort steakhouse alcohol spanish soft rude poor
+o113: desert resort steakhouse alcohol spanish soft rude excellent
+o114: desert resort steakhouse alcohol spanish soft kind poor
+o115: desert resort steakhouse alcohol spanish soft kind excellent
+o122: desert resort steakhouse alcohol english soft kind poor
+o123: desert resort steakhouse alcohol english soft kind excellent
+o129: seaside airbnb seafood water spanish soft rude excellent
+o131: seaside airbnb seafood water spanish soft kind excellent
+o133: seaside airbnb seafood water spanish coarse rude excellent
+o135: seaside airbnb seafood water spanish coarse kind excellent
+o139: seaside airbnb seafood water english soft kind excellent
+o143: seaside airbnb seafood water english coarse kind excellent
+o145: seaside airbnb seafood alcohol spanish soft rude excellent
+o147: seaside airbnb seafood alcohol spanish soft kind excellent
+o149: seaside airbnb seafood alcohol spanish coarse rude excellent
+o151: seaside airbnb seafood alcohol spanish coarse kind excellent
+o155: seaside airbnb seafood alcohol english soft kind excellent
+o159: seaside airbnb seafood alcohol english coarse kind excellent
+o160: seaside airbnb steakhouse water spanish soft rude poor
+o161: seaside airbnb steakhouse water spanish soft rude excellent
+o162: seaside airbnb steakhouse water spanish soft kind poor
+o163: seaside airbnb steakhouse water spanish soft kind excellent
+o164: seaside airbnb steakhouse water spanish coarse rude poor
+o165: seaside airbnb steakhouse water spanish coarse rude excellent
+o166: seaside airbnb steakhouse water spanish coarse kind poor
+o167: seaside airbnb steakhouse water spanish coarse kind excellent
+o170: seaside airbnb steakhouse water english soft kind poor
+o171: seaside airbnb steakhouse water english soft kind excellent
+o174: seaside airbnb steakhouse water english coarse kind poor
+o175: seaside airbnb steakhouse water english coarse kind excellent
+o176: seaside airbnb steakhouse alcohol spanish soft rude poor
+o177: seaside airbnb steakhouse alcohol spanish soft rude excellent
+o178: seaside airbnb steakhouse alcohol spanish soft kind poor
+o179: seaside airbnb steakhouse alcohol spanish soft kind excellent
+o180: seaside airbnb steakhouse alcohol spanish coarse rude poor
+o181: seaside airbnb steakhouse alcohol spanish coarse rude excellent
+o182: seaside airbnb steakhouse alcohol spanish coarse kind poor
+o183: seaside airbnb steakhouse alcohol spanish coarse kind excellent
+o186: seaside airbnb steakhouse alcohol english soft kind poor
+o187: seaside airbnb steakhouse alcohol english soft kind excellent
+o190: seaside airbnb steakhouse alcohol english coarse kind poor
+o191: seaside airbnb steakhouse alcohol english coarse kind excellent
+o193: seaside resort seafood water spanish soft rude excellent
+o195: seaside resort seafood water spanish soft kind excellent
+o197: seaside resort seafood water spanish coarse rude excellent
+o199: seaside resort seafood water spanish coarse kind excellent
+o203: seaside resort seafood water english soft kind excellent
+o207: seaside resort seafood water english coarse kind excellent
+o209: seaside resort seafood alcohol spanish soft rude excellent
+o211: seaside resort seafood alcohol spanish soft kind excellent
+o213: seaside resort seafood alcohol spanish coarse rude excellent
+o215: seaside resort seafood alcohol spanish coarse kind excellent
+o219: seaside resort seafood alcohol english soft kind excellent
+o223: seaside resort seafood alcohol english coarse kind excellent
+o224: seaside resort steakhouse water spanish soft rude poor
+o225: seaside resort steakhouse water spanish soft rude excellent
+o226: seaside resort steakhouse water spanish soft kind poor
+o227: seaside resort steakhouse water spanish soft kind excellent
+o228: seaside resort steakhouse water spanish coarse rude poor
+o229: seaside resort steakhouse water spanish coarse rude excellent
+o230: seaside resort steakhouse water spanish coarse kind poor
+o231: seaside resort steakhouse water spanish coarse kind excellent
+o234: seaside resort steakhouse water english soft kind poor
+o235: seaside resort steakhouse water english soft kind excellent
+o238: seaside resort steakhouse water english coarse kind poor
+o239: seaside resort steakhouse water english coarse kind excellent
+o240: seaside resort steakhouse alcohol spanish soft rude poor
+o241: seaside resort steakhouse alcohol spanish soft rude excellent
+o242: seaside resort steakhouse alcohol spanish soft kind poor
+o243: seaside resort steakhouse alcohol spanish soft kind excellent
+o244: seaside resort steakhouse alcohol spanish coarse rude poor
+o245: seaside resort steakhouse alcohol spanish coarse rude excellent
+o246: seaside resort steakhouse alcohol spanish coarse kind poor
+o247: seaside resort steakhouse alcohol spanish coarse kind excellent
+o250: seaside resort steakhouse alcohol english soft kind poor
+o251: seaside resort steakhouse alcohol english soft kind excellent
+o254: seaside resort steakhouse alcohol english coarse kind poor
+o255: seaside resort steakhouse alcohol english coarse kind excellent
+
+Penalty Optimal:
+o160 o161 o162 o163 o164 o165 o166 o167 o170 o171 o174 o175 o176 o177 o178 o179 o180 o181 o182 o183 o186 o187 o190 o191 o224 o225 o226 o227 o228 o229 o230 o231 o234 o235 o238 o239 o240 o241 o242 o243 o244 o245 o246 o247 o250 o251 o254 o255 with 11 penalty
+
+Possibilistic Optimal:
+o112 o113 o114 o115 o122 o123 o129 o131 o133 o135 o139 o143 o145 o147 o149 o151 o155 o159 o160 o161 o162 o163 o164 o165 o166 o167 o170 o171 o174 o175 o176 o177 o178 o179 o180 o181 o182 o183 o186 o187 o190 o191 o193 o195 o197 o199 o203 o207 o209 o211 o213 o215 o219 o223 o224 o225 o226 o227 o228 o229 o230 o231 o234 o235 o238 o239 o240 o241 o242 o243 o244 o245 o246 o247 o250 o251 o254 o255 with 0.09999999999999998 tolerance
+
+Choice Optimal:

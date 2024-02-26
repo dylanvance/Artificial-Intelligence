@@ -1,0 +1,3 @@
+resort BT airbnb IF desert
+seafood BT steakhouse IF
+seaside BT steakhouse IF resort

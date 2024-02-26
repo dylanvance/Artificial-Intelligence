@@ -1,0 +1,6 @@
+NOT desert OR NOT seafood
+spanish OR NOT rude
+NOT poor OR steakhouse
+seaside OR alcohol
+NOT desert OR soft
+seaside OR NOT airbnb
